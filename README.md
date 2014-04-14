@@ -1,4 +1,4 @@
 Tabster iOS
 ===========
 
-Implemented with RubyMotiona and CocoaPods.
+Implemented with RubyMotion and CocoaPods.
